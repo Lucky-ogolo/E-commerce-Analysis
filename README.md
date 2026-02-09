@@ -103,4 +103,13 @@ The project was used as a learning exercise to gain deeper familiarity with Powe
 ---
 
 ## 📎 Notes
-This project is part of my growing **Data Analytics portfolio** and reflects my continuous learning journey in Power BI, data modeling, and analytical storytelling.
+This project is part of my growing **Data Analytics portfolio** and reflects my continuous learning journey in Power BI, data modeling, and analytical storytelling
+
+## 🤝 Let’s Connect
+   📬 Author 
+Ogolo lucky -  Data Analyst  
+  - 💼 🔗[LinkedIn](www.linkedin.com/in/lucky-ogolo/)
+  - 📧 🔗[Email](luuckyyyy@gmail.com) 
+
+📬 *Feedback and suggestions are always welcome!*
+
