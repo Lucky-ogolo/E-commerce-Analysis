@@ -82,6 +82,11 @@ The dashboard was designed with a clean, professional layout using a **custom ba
 
 ---
 
+## 📸Dashboard Preview
+
+![](https://github.com/Lucky-ogolo/E-commerce-Analysis/blob/c671c6a65ff84b25344f33c32f66605a80f040ff/Screenshot%202026-02-09%20210413.png)
+
+
 ## 💡 Key Insights Generated
 - Identification of top-performing customers and countries  
 - Clear visibility into monthly and yearly sales trends  
